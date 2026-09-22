@@ -1,0 +1,15 @@
+# Ambiente e Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env
+*.log
+
+# Outros
+.DS_Store
+.vscode/
